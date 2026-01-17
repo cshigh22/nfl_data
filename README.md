@@ -27,7 +27,7 @@ The goal of this project is to build a modern ELT (Extract, Load, Transform) pip
 ### Setup
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/cshigh22/nfl-data-warehouse.git](https://github.com/cshigh22/nfl-data-warehouse.git)
+    git clone https://github.com/cshigh22/nfl_data.git
     ```
 2.  Create and activate a virtual environment:
     ```bash
